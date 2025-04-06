@@ -1,0 +1,22 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    text-align: center;
+
+
+}
+
+header {
+    background-color:deeppink;
+}
+header h1 {
+    color:white;
+}
+
+p {
+    color:cornflowerblue;
+}
+
+ul li {
+    color:deeppink
+}
